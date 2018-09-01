@@ -1,0 +1,12 @@
+var json_uv_porterias_1 = {
+"type": "FeatureCollection",
+"name": "uv_porterias_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "0", "tipo": "Portería 1", "nombre": "Entrada AV. Paso Ancho", "busqueda": "Entrada AV. Paso Ancho", "nume_edif": "0", "img": "porteria" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -76.536707213810075, 3.373691580888951 ], [ -76.53663355808051, 3.37371241447844 ], [ -76.536567212835038, 3.373475517329136 ], [ -76.536640868546584, 3.373454683741884 ], [ -76.536707213810075, 3.373691580888951 ] ] ] } },
+{ "type": "Feature", "properties": { "id": "0", "tipo": "Portería 3", "nombre": "Entrada Ingenio", "busqueda": "Entrada Ingenio", "nume_edif": "0", "img": "porteria" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -76.532427852827396, 3.379598951995577 ], [ -76.532422453336196, 3.379649059994249 ], [ -76.532290039348624, 3.379640113586369 ], [ -76.532292151130235, 3.379591697629071 ], [ -76.532427852827396, 3.379598951995577 ] ] ] } },
+{ "type": "Feature", "properties": { "id": "0", "tipo": "Portería 4", "nombre": "Entrada Calle 16", "busqueda": "Entrada Calle 16", "nume_edif": "0", "img": "porteria" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -76.530347208394687, 3.372279549426124 ], [ -76.530287227906854, 3.372252239654371 ], [ -76.530394174450407, 3.372015010780479 ], [ -76.530454154928833, 3.372042320543889 ], [ -76.530347208394687, 3.372279549426124 ] ] ] } },
+{ "type": "Feature", "properties": { "id": "0", "tipo": "Portería 5", "nombre": "Entrada Cra 100", "busqueda": "Entrada Cra 100", "nume_edif": "0", "img": "porteria" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -76.534781961225704, 3.370390672680911 ], [ -76.534879129176943, 3.370440702469253 ], [ -76.53486602063299, 3.370466415856518 ], [ -76.534768852680287, 3.370416386066533 ], [ -76.534781961225704, 3.370390672680911 ] ] ] } },
+{ "type": "Feature", "properties": { "id": "0", "tipo": "Portería 2", "nombre": "Entrada Peatonal Unicentro AV Pasoancho", "busqueda": "Entrada Peatonal Unicentro AV Pasoancho", "nume_edif": "0", "img": "porteria" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -76.537099850878576, 3.375079662733376 ], [ -76.537099850878576, 3.375229568776675 ], [ -76.537060589771954, 3.375229568776675 ], [ -76.537060589771954, 3.375079662733376 ], [ -76.537099850878576, 3.375079662733376 ] ] ] } }
+]
+}
